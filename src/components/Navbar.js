@@ -8,7 +8,7 @@ const Navbar = () => {
       <ul className="nav-links">
         <NavItem link="/" text="Home" />
         <NavItem link="/about" text="About" />
-        <NavItem link="/contact" text="Contact rtrtrtt" />
+        <NavItem link="/contact" text="Contact " />
       </ul>
     </nav>
   );
